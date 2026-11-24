@@ -5,9 +5,9 @@
 > [Forvo 法语](https://zh.forvo.com/languages/fr/)（母语者录音）、**有道词典 App**（查词点喇叭）、
 > [YouGlish 法语](https://youglish.com/french)（听真实视频里怎么读）。
 
-## 一、总原则：三条铁律
+## 一、总原则：三个入门观察
 
-1. **重音永远在最后一个音节**——不用记重音位置，法语没有这个烦恼；
+1. **主要重音通常落在意群的最后一个发音音节**。单独念一个词时，听词的结尾；读整句时，先按意思分组，再听每组的结尾。参见[魁北克法语办公室：法语的主要重音和强调重音](https://vitrinelinguistique.oqlf.gouv.qc.ca/24511/la-prononciation/notions-de-base-en-phonetique/laccent-tonique-et-laccent-expressif)；
 2. **词尾辅音一般不发音**：Paris 读「巴黎」不读「巴黎斯」。例外口诀 **CaReFuL**——词尾是 **C、R、F、L** 的通常要发音（avec、pour、chef、mal）；
 3. **e 在词尾不发音**：table 读 /tabl/，madame 读 /madam/。
 
@@ -82,6 +82,7 @@
 | **有道词典 App** | 查词 + 发音 + 例句，手机最方便 | 应用商店搜「有道词典」 |
 | **法语助手 / 每日法语听力** | 国内最全法语词典 App，变位+发音+听力素材一体 | 应用商店搜「法语助手」 |
 | **YouGlish 法语** | 输入单词，听 YouTube 真实视频中的发音 | https://youglish.com/french |
+| **Parle 法语音标表** | 初学者免费查听 35 个音标的示例，并按常见拼写和例词比对 | https://getparle.app/french-sound-chart/ |
 | **Google 翻译** | 整句朗读（应急用，音质机器味） | https://translate.google.com/ |
 
 ## ✅ 本章自测
